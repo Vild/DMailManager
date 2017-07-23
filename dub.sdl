@@ -1,0 +1,10 @@
+name "dmailmanager"
+description "Manage mail using notmuch"
+authors "Dan Printzell"
+copyright "Copyright © 2017, Dan Printzell"
+license "MPLv2"
+
+dependency "derelict-notmuch" path="../DerelictNotMuch" version="*"
+
+#subConfiguration "derelict-notmuch" "derelict-notmuch-static"
+#versions "DerelictNotMuch_Static"
