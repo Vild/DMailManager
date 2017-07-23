@@ -4,7 +4,7 @@ authors "Dan Printzell"
 copyright "Copyright © 2017, Dan Printzell"
 license "MPLv2"
 
-dependency "derelict-notmuch" path="../DerelictNotMuch" version="*"
+dependency "derelict-notmuch" version="~>0.0.1"
 
 #subConfiguration "derelict-notmuch" "derelict-notmuch-static"
 #versions "DerelictNotMuch_Static"
